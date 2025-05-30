@@ -891,6 +891,20 @@ body[dir="rtl"], [lang="ar"] *, [dir="rtl"] * {
         font-size: 0.85em;
         padding: 0 20px;
     }
+
+    /* Center RTL hero content on mobile */
+    body[dir="rtl"] .hero-content {
+        text-align: center;
+        align-items: center;
+    }
+
+    body[dir="rtl"] .hero-content p:nth-child(1) {
+        margin: 0 auto;
+    }
+
+    body[dir="rtl"] .hero-btns {
+        justify-content: center;
+    }
 }
 
 /* Extra small screens */
