@@ -1,0 +1,126 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "features": "Features",
+      "why": "Why Choose Us",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "signin": "Sign in"
+    },
+    "hero": {
+      "badge": "Secure And Sage Crypto Services",
+      "h1": "Make your Crypto Transaction",
+      "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa possimus tenetur amet aut dolorum sit quasi asperiores, recusandae dolores quam perspiciatis ex reiciendis labore aliquid in illo.",
+      "how": "How it Works",
+      "white": "White Papers"
+    },
+    "features": {
+      "title": "Our Features",
+      "wallet": "Secure Wallet",
+      "wallet_desc": "Your assets are protected with top-notch security protocols.",
+      "instant": "Instant Transactions",
+      "instant_desc": "Experience lightning-fast crypto transactions anytime, anywhere.",
+      "support": "24/7 Support",
+      "support_desc": "Our team is always available to help you with your needs."
+    },
+    "why": {
+      "title": "Why Choose Us?",
+      "trusted": "Trusted Platform",
+      "trusted_desc": "Millions of users trust us for their crypto needs.",
+      "analytics": "Advanced Analytics",
+      "analytics_desc": "Get real-time insights and analytics for smarter trading.",
+      "dedicated": "Dedicated Support",
+      "dedicated_desc": "Our support team is always ready to assist you."
+    },
+    "pricing": {
+      "title": "Pricing Plans",
+      "basic": "Basic",
+      "free": "Free",
+      "buy": "Buy & Sell Crypto",
+      "basic_support": "Basic Support",
+      "pro": "Pro",
+      "pro_price": "$9.99/mo",
+      "adv_trading": "Advanced Trading",
+      "priority": "Priority Support",
+      "dashboard": "Analytics Dashboard"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "send": "Send Message"
+    },
+    "footer": {
+      "home": "Home",
+      "features": "Features",
+      "why": "Why Choose Us",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "copy": "&copy; 2024 Cryptono. All rights reserved."
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الرئيسية",
+      "features": "المميزات",
+      "why": "لماذا تختارنا",
+      "pricing": "الأسعار",
+      "contact": "تواصل معنا",
+      "signin": "تسجيل الدخول"
+    },
+    "hero": {
+      "badge": "خدمات تشفير آمنة وموثوقة",
+      "h1": "قم بإجراء كريبتو معاملة",
+      "desc": "لوريم إيبسوم دولور سيت أميت كونسيكتيتور، أدبيسيسينغ إيليت. كولبا بوسيموس تينتور أميت أوت دولوروم سيت كواسي أسبيريوريس، ريكوساندي دولوريس كوام بيرسبيكياتيس إكس ريشيينديس لابوري أليكويد إن إيلو.",
+      "how": "كيف يعمل",
+      "white": "الأوراق البيضاء"
+    },
+    "features": {
+      "title": "مميزاتنا",
+      "wallet": "محفظة آمنة",
+      "wallet_desc": "أصولك محمية بأعلى بروتوكولات الأمان.",
+      "instant": "معاملات فورية",
+      "instant_desc": "استمتع بمعاملات تشفير سريعة في أي وقت وأي مكان.",
+      "support": "دعم 24/7",
+      "support_desc": "فريقنا متواجد دائماً لمساعدتك في جميع احتياجاتك."
+    },
+    "why": {
+      "title": "لماذا تختارنا؟",
+      "trusted": "منصة موثوقة",
+      "trusted_desc": "ملايين المستخدمين يثقون بنا لاحتياجاتهم في التشفير.",
+      "analytics": "تحليلات متقدمة",
+      "analytics_desc": "احصل على رؤى وتحليلات فورية لتداول أكثر ذكاءً.",
+      "dedicated": "دعم مخصص",
+      "dedicated_desc": "فريق الدعم لدينا جاهز دائماً لمساعدتك."
+    },
+    "pricing": {
+      "title": "خطط الأسعار",
+      "basic": "أساسي",
+      "free": "مجاني",
+      "buy": "شراء وبيع العملات الرقمية",
+      "basic_support": "دعم أساسي",
+      "pro": "احترافي",
+      "pro_price": "٩٫٩٩ دولار/شهر",
+      "adv_trading": "تداول متقدم",
+      "priority": "دعم أولوية",
+      "dashboard": "لوحة تحكم التحليلات"
+    },
+    "contact": {
+      "title": "تواصل معنا",
+      "name": "اسمك",
+      "email": "بريدك الإلكتروني",
+      "message": "رسالتك",
+      "send": "إرسال الرسالة"
+    },
+    "footer": {
+      "home": "الرئيسية",
+      "features": "المميزات",
+      "why": "لماذا تختارنا",
+      "pricing": "الأسعار",
+      "contact": "تواصل معنا",
+      "copy": "&copy; 2024 كريبتونو. جميع الحقوق محفوظة."
+    }
+  }
+}
